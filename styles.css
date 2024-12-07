@@ -1,0 +1,17 @@
+
+body{
+    background-color: #121212;
+    color: white;
+}
+.imagen{
+    overflow: hidden;
+    scrollbar-width: none;
+}
+.imagen img{
+    width: 100%;
+    height: 100%;
+}
+article{
+    display: flex;
+    flex-direction: column;
+}
